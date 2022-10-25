@@ -66,68 +66,68 @@ b: "Berlín",
 
 correct: "a",
 },{
-  question: "11. Voda se vypařuje a mění se na páru.",
-  a: "pravda",
-  b: "lež",
+  question: "11. Írsko",
+  a: "Dublin",
+  b: "Řím",
   
   correct: "a",
 },
 {
-question: "12. Zem se otáčí kolem slunce.",
-a: "pravda",
-b: "lež",
+question: "12. Itálie",
+a: "Řím",
+b: "Washington",
 
 correct: "a",
 },{
-  question: "13. Magnet přitahuje železné předměty.",
-  a: "pravda",
-  b: "lež",
+  question: "13. Malta",
+  a: "Valletta",
+  b: "Praha",
   
   correct: "a",
 },
 {
-question: "14. Lidé potřebují kyslík na dýchání.",
-a: "pravda",
-b: "lež",
+question: "14. Austrálie",
+a: "Canberra",
+b: "Buenos Aires",
 
 correct: "a",
 },{
-  question: "15. Pták se líhne z vajíčka.",
-  a: "pravda",
-  b: "lež",
+  question: "15. Argentina",
+  a: "Buenos Aires",
+  b: "Mexico City",
   
   correct: "a",
 },
 {
-question: "16. Všechny děti se učí počítat.",
-a: "pravda",
-b: "lež",
+question: "16. Čína",
+a: "Peking",
+b: "Baku",
 
 correct: "a",
 },{
-  question: "17. Klavír je hudební nástroj.",
-  a: "pravda",
-  b: "lež",
+  question: "17. Indie",
+  a: "Nové Dillí (New Delhi)",
+  b: "Islamabád",
   
   correct: "a",
 },
 {
-question: "18. Knížky se vyrábí z kakaa.",
-a: "pravda",
-b: "lež",
+question: "18. Jihoafrická republika",
+a: "Varšava",
+b: "Pretorie",
 
 correct: "b",
 },{
-  question: "19. Leden je první měsíc v roku.",
-  a: "pravda",
-  b: "lež",
+  question: "19. Rakousko",
+  a: "Vídeň",
+  b: "Bern",
   
   correct: "a",
 },
 {
-question: "20. Listy padají ze stromů.",
-a: "pravda",
-b: "lež",
+question: "20. Švícarsko",
+a: "Bern",
+b: "Bern",
 
 correct: "a",
 },
