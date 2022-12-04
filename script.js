@@ -127,7 +127,7 @@ correct: "b",
 {
 question: "20. Švícarsko",
 a: "Bern",
-b: "Bern",
+b: "Teherán",
 
 correct: "a",
 },
